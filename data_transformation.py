@@ -28,7 +28,7 @@ dyf = glueContext.create_dynamic_frame.from_options(
     transformation_ctx="dyf",
 )
 
-
+#dataframe
 df = dyf.toDF()
 
 
